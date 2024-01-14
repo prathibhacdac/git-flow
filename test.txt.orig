@@ -1,0 +1,7 @@
+This is a test file.
+I am in feature branch 112.
+<<<<<<< HEAD
+I am in develop branch.
+=======
+I am in release branch
+>>>>>>> release/1.0
